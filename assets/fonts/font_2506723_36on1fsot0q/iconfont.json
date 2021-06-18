@@ -1,0 +1,100 @@
+{
+  "id": "2506723",
+  "name": "web",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "827977",
+      "name": "文章1",
+      "font_class": "wenzhang1",
+      "unicode": "e6a9",
+      "unicode_decimal": 59049
+    },
+    {
+      "icon_id": "5147489",
+      "name": "个人中心",
+      "font_class": "app_icons--",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "6345635",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "21598347",
+      "name": "购买红包",
+      "font_class": "goumaihongbao",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "19594650",
+      "name": "开关",
+      "font_class": "switch",
+      "unicode": "e695",
+      "unicode_decimal": 59029
+    },
+    {
+      "icon_id": "3217823",
+      "name": "开关",
+      "font_class": "icon-",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "20519875",
+      "name": "蛋糕",
+      "font_class": "dangao",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "7339837",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e6a8",
+      "unicode_decimal": 59048
+    },
+    {
+      "icon_id": "1463622",
+      "name": "相机",
+      "font_class": "camera",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "924669",
+      "name": "地址",
+      "font_class": "dizhi",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "21181073",
+      "name": "刷新",
+      "font_class": "shuaxin",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "21181074",
+      "name": "安全",
+      "font_class": "anquan",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "21181075",
+      "name": "短信",
+      "font_class": "duanxin",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    }
+  ]
+}
